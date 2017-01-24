@@ -75,4 +75,4 @@ CELERY_ALWAYS_EAGER = True
 
 # Your local stuff: Below this line define 3rd party library settings
 # ------------------------------------------------------------------------------
-ALLOWED_HOSTS = ('192.168.99.101',)
+ALLOWED_HOSTS = ['192.168.99.101', '192.168.99.102', '192.168.99.103', '192.168.99.104', '192.168.99.105' ]
